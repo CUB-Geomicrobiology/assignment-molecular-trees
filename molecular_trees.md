@@ -1,7 +1,7 @@
 # Beautified Team Tree
 
-![](trees/???.png)
+![](???.png)
 
-[Link to tree in Newick format](trees/???.txt)
+[Link to tree in Newick format](???.txt)
 
 > Instructions: add in the the links to your tree. That's it!
