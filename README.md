@@ -3,7 +3,7 @@
 ## Assignment
 
  1. Complete the team activity at https://2017-geomicrobiology.github.io/materials/trees/
- 2. At the end of the activity, add at least one tree for your team to the `trees` folder (both the `.png` and the `.txt` in Newick format)
+ 2. At the end of the activity, add at least one tree for your team to the repository (both the `.png` and the `.txt` in Newick format)
  3. Fill out the [`molecular_trees.md`](molecular_trees.md) file.
 
 Note: if your tree produced multiple trees, feel free to include more than one.
